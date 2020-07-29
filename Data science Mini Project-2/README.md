@@ -1,1 +1,2 @@
-this is 2 nd mini project. In this project I used cred card dataset to determine where the customer defaults the credit card next months or not. I have perform from data analysis and visulaizetion to creating financial model for the clients as a end prodect.
+# Data-Science-Intern-2 Mini-Project-Task-
+You have to Complete All the Task on given Deadline
